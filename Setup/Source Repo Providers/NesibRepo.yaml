@@ -1,0 +1,7 @@
+harnessApiVersion: '1.0'
+type: GIT
+keyAuth: false
+password: safeharness:0y03Cz1tRYWP20SMwI_SEQ
+url: https://github.com/nesibf/harness-admin
+urlType: REPO
+username: nesibf
