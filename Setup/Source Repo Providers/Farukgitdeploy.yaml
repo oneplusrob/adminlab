@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:0y03Cz1tRYWP20SMwI_SEQ
+url: https://github.com/FarukSucka/harness.git
+urlType: REPO
+username: git
