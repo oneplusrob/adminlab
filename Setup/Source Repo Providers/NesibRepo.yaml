@@ -1,6 +1,6 @@
 harnessApiVersion: '1.0'
 type: GIT
-branch: main
+branch: master
 keyAuth: false
 password: safeharness:i94yTbunTm-dDY2ma1g0Iw
 url: https://github.com/nesibf/harness-admin
